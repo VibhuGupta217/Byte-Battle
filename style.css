@@ -1,9 +1,9 @@
 body {
     background-color: #33FFDD;
     color:black;
-    background-image: url('vibhu.jpg.jpg'); /* Specify the path to your image */
-    background-repeat: repeat; /* Prevent the background image from repeating */
-    background-size: cover; /* Cover the entire container */
+    background-image: url('vibhu.jpg.jpg'); 
+    background-repeat: repeat; 
+    background-size: cover; 
     background-position: center;
     
 }

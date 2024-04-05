@@ -1,9 +1,9 @@
 body {
     background-color: #33FFDD;
     color:black;
-    background-image: url('natural.jpg.webp'); /* Specify the path to your image */
-    background-repeat: repeat; /* Prevent the background image from repeating */
-    background-size: cover; /* Cover the entire container */
+    background-image: url('natural.jpg.webp'); 
+    background-repeat: repeat;
+    background-size: cover;
     background-position: center;
     
 }
