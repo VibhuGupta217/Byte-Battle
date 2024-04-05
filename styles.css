@@ -7,3 +7,7 @@ body {
     background-position: center;
     
 }
+h1 {
+    font-weight: bold;
+    text-decoration-line: underline;
+ }
